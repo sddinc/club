@@ -1,3 +1,5 @@
+package day44;
+
 public class InVisibleNameSurname {
     public static void main(String[] args) {
         String str="Alin Vlademir";
