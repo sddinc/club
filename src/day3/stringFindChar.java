@@ -3,7 +3,6 @@ public class stringFindChar {
     public static void main(String[] args) {
         String str="Hello colentina.";
         //substring
-
         String str2=str.substring(1,5);
         String str3="e";
         int cnt=0;

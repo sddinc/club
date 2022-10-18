@@ -1,15 +1,17 @@
 package day44;
 
 public class nrOfWord {
-    public static void main(String[] args) {
-        String str="Polonia: Scurgeri de petrol din mega-conducta Drujba / La acest moment nu se cunosc cauzele incidentului";
+    public static void main(String[] args) {// number of the words in sentence
+        String str="Universitatea Babeș-Bolyai Bode xyz try";
    int cnt=0;
         for (int i=0;i< str.length();i++){
           if(str.charAt(i)==' ' ){
               cnt++;
           }
         }
-        System.out.println(cnt);
+        System.out.println(
+
+        );
 
 
     }
