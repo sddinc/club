@@ -1,4 +1,4 @@
-package day5;
+package day44;
 public class PalindromNumber {
     public static void main(String[] args) {
         int number=123;
