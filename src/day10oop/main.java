@@ -3,6 +3,10 @@ package day10oop;
 public class main {
     public static void main(String[] args) {
         pen p1= new pen();
+        salary s1= new salary();
+
+        System.out.println(s1.yearMoreThen10(1200));
+        System.out.println(s1.yearLessThen10(1200));
 
         pen p2= new pen();
         matematica m1=new matematica();
